@@ -15,6 +15,7 @@ springdoc:
     tags-sorter: alpha
     #operations-sorter: order
   api-docs:
+    #api json数据
     path: /v3/api-docs
   group-configs:
     - group: 'com.hy.apidoc'
